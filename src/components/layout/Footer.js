@@ -19,16 +19,16 @@ export default function Footer() {
       <div class="top">
         <div class="pages">
           <ul>
-            <h3>Brand Name</h3>
+            <h3>India Railways</h3>
             <li><a href="#">Home</a></li>
-            <li><a href="#">Catalog</a></li>
+            <li><a href="#">GoTo</a></li>
             <li><a href="#">Search</a></li>
             <li><a href="#">About</a></li>
             <li><a href="#">Contact</a></li>
           </ul>
 
           <ul>
-            <h3>Careers</h3>
+            <h3>Book Tickets</h3>
             <li><a href="#">Apply Online</a></li>
             <li><a href="#">Available Positions</a></li>
           </ul>
@@ -55,13 +55,41 @@ export default function Footer() {
         </div>
       </div>
       <div class="social">
-        <i class="fab fa-linkedin"> linkedin</i>
-        <i class="fab fa-github">github</i>
-        <i class="fab fa-facebook"> facebook</i>
-        <i class="fab fa-instagram"> instagram</i>
-        <i class="fab fa-twitter"> twitter</i>
-        <i class="fab fa-youtube">youtube</i>
+      <Link href="https://www.linkedin.com/">
+                    <a target="_blank" rel="noopener noreferrer">
+                        <FaLinkedin />
+                    </a>
+                </Link>
+        <Link href="https://github.com/">
+                    <a target="_blank" rel="noopener noreferrer">
+                        <FaGithubSquare />
+                    </a>
+                </Link>
+        <Link href="https://www.facebook.com/">
+                    <a target="_blank" rel="noopener noreferrer">
+                        <FaFacebookSquare />
+                    </a>
+                </Link>
+        <Link href="https://www.instagram.com/">
+                    <a target="_blank" rel="noopener noreferrer">
+                        <FaInstagram />
+                    </a>
+                </Link>
+        <Link href="https://twitter.com/">
+                    <a target="_blank" rel="noopener noreferrer">
+                        <FaTwitterSquare />
+                    </a>
+                </Link>
       </div>
+      {/* <div class="social">
+  <FaLinkedin />
+  <FaGithubSquare />
+  <FaFacebookSquare />
+  <FaInstagram />
+  <FaTwitterSquare />
+  Add more icons as needed 
+  <FaYoutube /> 
+</div> */}
       <div class="info">
         <div class="legal">
           <a href="#">Terms & Conditions</a><a href="#">Privacy Policy</a>
