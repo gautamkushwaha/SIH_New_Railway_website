@@ -82,7 +82,7 @@ A. git merge main (when you're in your working branch)
 ![Alt Text](https://img.freepik.com/free-photo/lone-tree_181624-46361.jpg?size=626&ext=jpg&ga=GA1.2.788017613.1695444954&semt=ais)
 
 ![Alt Text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Gv5Nv7EJx8ciqOXEwQ_ZXWKEYViziWRg-Q&usqp=CAU)
-![Alt Text](./BrowserImage/1.png)
+![Alt Text](./public/BrowserImage/1.png)
 ![Alt Text](./BrowserImage/2.png)
 ![Alt Text](./BrowserImage/3.png)
 ![Alt Text](./BrowserImage/4.png)
