@@ -56,29 +56,29 @@ export default function Footer() {
       </div>
       <div class="social">
       <Link href="https://www.linkedin.com/">
-                    <a target="_blank" rel="noopener noreferrer">
+                    <h target="_blank" rel="noopener noreferrer">
                         <FaLinkedin />
-                    </a>
+                    </h>
                 </Link>
         <Link href="https://github.com/">
-                    <a target="_blank" rel="noopener noreferrer">
+                    <h target="_blank" rel="noopener noreferrer">
                         <FaGithubSquare />
-                    </a>
+                    </h>
                 </Link>
         <Link href="https://www.facebook.com/">
-                    <a target="_blank" rel="noopener noreferrer">
+                    <h target="_blank" rel="noopener noreferrer">
                         <FaFacebookSquare />
-                    </a>
+                    </h>
                 </Link>
         <Link href="https://www.instagram.com/">
-                    <a target="_blank" rel="noopener noreferrer">
+                    <h target="_blank" rel="noopener noreferrer">
                         <FaInstagram />
-                    </a>
+                    </h>
                 </Link>
         <Link href="https://twitter.com/">
-                    <a target="_blank" rel="noopener noreferrer">
+                    <h target="_blank" rel="noopener noreferrer">
                         <FaTwitterSquare />
-                    </a>
+                    </h>
                 </Link>
       </div>
       {/* <div class="social">

@@ -1,6 +1,13 @@
-# This is Sathi Cloud Development Repo for website
+# This is Indian Railway Website  Repo for website
 
-This Repo is Officially Managed & Developed by the Development Teams of Sathi Cloud
+This Repo is Officially Managed & Developed by the Development Tech Tigers Development Team
+1. Gautam kushwaha
+2. Tarun
+3. Asif
+4. Bhoomika
+5. Santosh
+6. Raviteja
+
 
 ## Note for Developers
 
@@ -70,3 +77,8 @@ A. git merge main (when you're in your working branch)
 - $ git merge new_branch
 - $ git branch -D new_branch
 - $ git push origin -delete new_branch# SIH_New_Railway_website
+
+# Jus have a glance on the website interfaces:
+![Alt Text](https://img.freepik.com/free-photo/lone-tree_181624-46361.jpg?size=626&ext=jpg&ga=GA1.2.788017613.1695444954&semt=ais)
+
+![Alt Text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Gv5Nv7EJx8ciqOXEwQ_ZXWKEYViziWRg-Q&usqp=CAU)
