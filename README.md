@@ -79,7 +79,7 @@ A. git merge main (when you're in your working branch)
 - $ git push origin -delete new_branch# SIH_New_Railway_website
 
 # Jus have a glance on the website interfaces:
-![Alt Text](https://img.freepik.com/free-photo/lone-tree_181624-46361.jpg?size=626&ext=jpg&ga=GA1.2.788017613.1695444954&semt=ais)
+![Alt Text](https://github.com/gautamkushwaha/Gautam_images/commit/616e76b8f09e98b674ab0a6741574d972c863089#diff-9461eefa9b19f0a23b166f412d5d0825ea819237eca6f034e2b7bde43aa2b246)
 
 ![Alt Text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Gv5Nv7EJx8ciqOXEwQ_ZXWKEYViziWRg-Q&usqp=CAU)
 ![Alt Text](./public/BrowserImage/1.png)
